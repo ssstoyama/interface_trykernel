@@ -1,0 +1,20 @@
+{
+	"name": "interface_trykernel",
+	"build": {
+		"dockerfile": "Dockerfile"
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"eamodio.gitlens",
+				"vadimcn.vscode-lldb",
+				"ziglang.vscode-zig",
+				"streetsidesoftware.code-spell-checker",
+				"GitHub.copilot",
+				"GitHub.copilot-labs",
+				"ms-vscode.vscode-serial-monitor"
+			]
+		}
+	},
+	"remoteUser": "root"
+}
